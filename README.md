@@ -181,3 +181,6 @@ This repository serves as the official landing page for eyeOS Mini Server. The s
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of eyeOS Mini Server today!**
+
+---
+**Last updated:** 2026-11-09 17:16:08 UTC
